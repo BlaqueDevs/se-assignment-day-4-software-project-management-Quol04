@@ -29,7 +29,8 @@ Use Agile Budgeting – Adjust budgets iteratively based on project phases and r
 Set Contingency Reserves – Allocate 10-20% of the budget for unexpected expenses.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-|---- Agile | ---- Waterfall |
+| Agile | Waterfall |
+| ------ | ------ |
 |Iterative & incremental	Sequential & linear| all requirements are defined upfront|
 | allows changes at any stage| changes are difficult once development starts|
 
